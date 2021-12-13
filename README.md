@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @gopherwow
+- 👀 I’m interested in Bash and creating websites
+- 🌱 I’m currently learning Bash
+- 📫 I’m creating OS in Bash right now
